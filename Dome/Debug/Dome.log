@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\陈家宁\Documents\Tencent Files\1465088322\FileRecv\Dome\Dome\Dome\main.cpp(183,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\陈家宁\Documents\Tencent Files\1465088322\FileRecv\Dome\Dome\Dome\main.cpp(236,7): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\陈家宁\Documents\Tencent Files\1465088322\FileRecv\Dome\Dome\Dome\main.cpp(431,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\陈家宁\Documents\Tencent Files\1465088322\FileRecv\Dome\Dome\Dome\main.cpp(438,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\陈家宁\Documents\Tencent Files\1465088322\FileRecv\Dome\Dome\Dome\main.cpp(444,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\陈家宁\Documents\Tencent Files\1465088322\FileRecv\Dome\Dome\Dome\main.cpp(665,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\陈家宁\Documents\Tencent Files\1465088322\FileRecv\Dome\Dome\Dome\main.cpp(671,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\陈家宁\Documents\Tencent Files\1465088322\FileRecv\Dome\Dome\Dome\main.cpp(676,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Dome.vcxproj -> C:\Users\陈家宁\Documents\Tencent Files\1465088322\FileRecv\Dome\Dome\Debug\Dome.exe
